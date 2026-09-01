@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Tarot Symbolism and Reflective Reading Guide</title>
+  <desc id="desc">Two decorative tarot cards on a dark navy background with warm gold and lavender accents.</desc>
+  <defs>
+    <radialGradient id="bg" cx="70%" cy="35%" r="80%">
+      <stop offset="0" stop-color="#41345f"/>
+      <stop offset="0.55" stop-color="#201d39"/>
+      <stop offset="1" stop-color="#0d0c1b"/>
+    </radialGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f5eef9"/>
+      <stop offset="1" stop-color="#c8b8dc"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g opacity=".12" stroke="#f8f3e9">
+    <path d="M0 90h1200M0 180h1200M0 270h1200M0 360h1200M0 450h1200M0 540h1200"/>
+    <path d="M100 0v630M200 0v630M300 0v630M400 0v630M500 0v630M600 0v630M700 0v630M800 0v630M900 0v630M1000 0v630M1100 0v630"/>
+  </g>
+  <g transform="translate(84 150)">
+    <text x="0" y="0" fill="#d6b36a" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4">A PRACTICAL, NON-PREDICTIVE GUIDE</text>
+    <text x="0" y="76" fill="#f8f3e9" font-family="Georgia, serif" font-size="70">Tarot Symbolism</text>
+    <text x="0" y="148" fill="#f8f3e9" font-family="Georgia, serif" font-size="70">for Reflection</text>
+    <text x="0" y="210" fill="#bdb6c7" font-family="Arial, sans-serif" font-size="24">Symbols · Archetypes · Journaling</text>
+    <rect x="0" y="260" width="265" height="58" rx="29" fill="#d6b36a"/>
+    <text x="32" y="297" fill="#0d0c1b" font-family="Arial, sans-serif" font-size="20" font-weight="700">READ WITH CURIOSITY</text>
+  </g>
+  <g transform="translate(825 105) rotate(8 125 205)">
+    <rect width="250" height="410" rx="20" fill="url(#card)" stroke="#f0d89d" stroke-width="2"/>
+    <text x="125" y="48" text-anchor="middle" fill="#27233b" font-family="Georgia, serif" font-size="20">XVII</text>
+    <circle cx="125" cy="180" r="74" fill="none" stroke="#806b9a" stroke-width="2"/>
+    <path d="M125 101l18 55 58 1-47 34 17 56-46-34-47 34 18-56-47-34 58-1z" fill="#d6b36a"/>
+    <path d="M32 292h186" stroke="#806b9a" stroke-width="2"/>
+    <text x="125" y="355" text-anchor="middle" fill="#27233b" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="3">REFLECTION</text>
+  </g>
+  <circle cx="950" cy="315" r="245" fill="none" stroke="#f8f3e9" opacity=".16"/>
+  <circle cx="950" cy="315" r="195" fill="none" stroke="#f8f3e9" opacity=".12"/>
+</svg>
