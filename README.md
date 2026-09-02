@@ -14,6 +14,8 @@ Tarot archetype journal: <https://temp-buvrupyqlmouknruwgal.webadorsite.com/>
 
 Deckaura resource profile: <https://solo.to/deckaura>
 
+Public tarot meanings implementation brief: <https://tarotreading.atlassian.net/browse/DSEO-1>
+
 Tarot notes profile: <https://deckaura.kit.com/profile/links>
 
 The guide presents tarot for reflection and entertainment, not as predictive or professional advice.
