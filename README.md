@@ -6,4 +6,6 @@ Live site: <https://gokimedia.github.io/deckaura-tarot-symbolism-guide/>
 
 Field note: <https://gokimedia.github.io/deckaura-tarot-symbolism-guide/better-tarot-questions/>
 
+Practice companion: <https://deckaura-reflection-journal.web.app/>
+
 The guide presents tarot for reflection and entertainment, not as predictive or professional advice.
